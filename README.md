@@ -1,1 +1,1 @@
-# normalize_covid_impact_airport_traffic
+# normalized_covid_impact_airport_traffic
